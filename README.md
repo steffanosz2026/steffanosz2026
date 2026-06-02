@@ -8,12 +8,12 @@ Soy estudiante de la carrera **Tecnólogo en Informática (CURE/UTEC)**. Me apas
 
 2. 🚀 Proyectos en Desarrollo
 
-A-Encontrar los divisores de un numero
-B-El numero ingresado ¿Es primo?
-C-Juego de dados en C
+A-Encontrar los divisores de un numero.
+B-El numero ingresado ¿Es primo?.
+C-Juego de dados en C.
 D-[Simon Game](https://github.com/steffanosz2026):** Implementación en código del clásico juego de memoria, enfocado en el manejo preciso de máquinas de estados, flujos lógicos secuenciales y validación de variables. *(¡Defendiéndolo justo ahora!)*
-* **Proyectos de Lógica y Algoritmia:** Aplicación práctica de matemática discreta y estructuras lógicas para la resolución de problemas informáticos.
-
+E- **Proyectos de Lógica y Algoritmia:** Aplicación práctica de matemática discreta y estructuras lógicas para la resolución de problemas informáticos.
+F-Programa de gestion de usuarios de un Hospital ficticio
 ---
 
 ## 📬 Conectemos
