@@ -8,14 +8,14 @@ Soy estudiante de la carrera **Tecnólogo en Informática (CURE/UTEC)**. Me apas
 
 2. 🚀 Proyectos en Desarrollo
 
-A-Encontrar los divisores de un numero.
-B-El numero ingresado ¿Es primo?.
-C-Juego de dados en C.
-D-[Simon Game](https://github.com/steffanosz2026):** Implementación en código del clásico juego de memoria, enfocado en el manejo preciso de máquinas de estados, flujos lógicos secuenciales y validación de variables. *(¡Defendiéndolo justo ahora!)*
-E- **Proyectos de Lógica y Algoritmia:** Aplicación práctica de matemática discreta y estructuras lógicas para la resolución de problemas informáticos.
-F-Programa de gestion de usuarios de un Hospital ficticio
----
+A-Encontrar los divisores de un numero: Algoritmia bàsica en C para el càlculo y optimizacion de divisores de un entero.
+B-Verificador de nùmeros primos:Implementación de lógica matemática en C para la validación de primalidad.
+C-Juego de dados en C.Desarrollo de un juego de dados interactivo enfocado en funciones de control de flujo (siguirJugando).
+D-Simon Game:  Implementación en código del clásico juego de memoria, enfocado en el manejo preciso de máquinas de estados, flujos lógicos secuenciales y validación de variables en C. *(¡Defendiéndolo justo ahora!)*
+E-Lógica y Algoritmia: Aplicación práctica de matemática discreta y estructuras lógicas para la resolución de problemas informáticos.
+F- Sistema de Gestiòn Hospitalaria: ograma en C/C++ para la administración de usuarios en un entorno clínico ficticio.
+
 
 ## 📬 Conectemos
-* **LinkedIn:** [Tu enlace de LinkedIn aquí]
-* **Email:** [Tu correo aquí]
+* **LinkedIn:** www.linkedin.com/in/steffano-silva-zuluaga
+* **Email:** steffanosz2026@gmail.com
